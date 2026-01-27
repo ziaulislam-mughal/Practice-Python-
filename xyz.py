@@ -8,6 +8,6 @@ for i in range(0,len(Msg2)+1):
     elif Msg1[i] >= "N" and Msg1[i] <= "Z":
         Msg3 = Msg3 + Msg2[i]
     else:
-        Msg3 = Msg3 + "+__"
+        Msg3 = Msg3 + "+___"
 
 print(Msg3)

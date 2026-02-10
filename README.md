@@ -1,12 +1,12 @@
-Practice-Python
+# Practice-Python
 
 Welcome to the Practice-Python repository.
 
 This repository contains a collection of basic to intermediate Python exercises designed to help learners strengthen their programming skills and gain hands-on experience with core Python concepts. The tasks cover fundamental programming principles, making it suitable for beginners and for those looking to reinforce their Python knowledge.
 
-Key Concepts Covered:
+# Key Concepts Covered:
 
-Input / Output –> Learn how to interact with users and handle data input and output.
+Input / Output <b> –> </b> Learn how to interact with users and handle data input and output.
 
 Conditional Statements –> Practice decision-making using if, elif, and else.
 
@@ -16,7 +16,7 @@ Date & Time –> Work with Python’s date and time modules for practical applic
 
 Mathematical Calculations –> Perform arithmetic operations and solve numerical problems.
 
-Purpose:
+# Purpose:
 
 The exercises are designed to:
 

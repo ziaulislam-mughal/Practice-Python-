@@ -1,2 +1,2 @@
 # Practice-Python-
-This repository contains basic python tasks covering fundamental programming  concepts such as input / output , conditions , list , dates and  mathematical calculation. 
+This repository contains simple Python programs focusing on the foundational concepts of Python programming. Here, you will learn how to create and use variables to store information, explore different data types like integers, floats, strings, and booleans, and perform operations using arithmetic, comparison, and logical operators. The programs also demonstrate how to take input from the user and display output, helping beginners understand how Python interacts with data in real time.

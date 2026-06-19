@@ -1,0 +1,24 @@
+# Python Practice: Operators
+# Contributed by Aimen Ejaz Kiani
+
+# Arithmetic Operators
+print("Addition:", 10 + 20)
+print("Remainder:", 15 % 4)
+print("Square:", 5 ** 2)
+
+# Assignment Operators
+x = 10
+x += 5
+print("Value after += 5:", x)
+
+# Comparison Operators
+print("Is 15 == 15?", 15 == 15)
+print("Is 20 > 10?", 20 > 10)
+
+# Logical Operators
+num = 12
+print("Is 12 between 5 and 20?", num > 5 and num < 20)
+
+# Membership Operators
+my_list = [1, 2, 3, 4, 5]
+print("Is 3 in the list?", 3 in my_list)
